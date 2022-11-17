@@ -8,7 +8,7 @@ https://solana-movie-review-frontend.vercel.app/
 
 ![This is an image](https://i.postimg.cc/k5zC3HCz/Account-input-s.png)
 
-![This is an image](https://i.postimg.cc/pTR98yhP/Instruction.png)
+![This is an image](https://i.postimg.cc/hGgx82NF/Instruction.png)
 
 ![This is an image](https://i.postimg.cc/CKynhcwB/Inner-instructions.png)
 
